@@ -1,0 +1,13 @@
+C:\Users\Joe\Dropbox\School\2017-2018\Fall\ProgrammingEnvironments\DataEntryForms\DataEntryForms\bin\Debug\DataEntryForms.exe.config
+C:\Users\Joe\Dropbox\School\2017-2018\Fall\ProgrammingEnvironments\DataEntryForms\DataEntryForms\bin\Debug\DataEntryForms.exe
+C:\Users\Joe\Dropbox\School\2017-2018\Fall\ProgrammingEnvironments\DataEntryForms\DataEntryForms\bin\Debug\DataEntryForms.pdb
+C:\Users\Joe\Dropbox\School\2017-2018\Fall\ProgrammingEnvironments\DataEntryForms\DataEntryForms\obj\Debug\DataEntryForms.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Dropbox\School\2017-2018\Fall\ProgrammingEnvironments\DataEntryForms\DataEntryForms\obj\Debug\DataEntryForms.Properties.Resources.resources
+C:\Users\Joe\Dropbox\School\2017-2018\Fall\ProgrammingEnvironments\DataEntryForms\DataEntryForms\obj\Debug\DataEntryForms.csproj.GenerateResource.Cache
+C:\Users\Joe\Dropbox\School\2017-2018\Fall\ProgrammingEnvironments\DataEntryForms\DataEntryForms\obj\Debug\DataEntryForms.csproj.CoreCompileInputs.cache
+C:\Users\Joe\Dropbox\School\2017-2018\Fall\ProgrammingEnvironments\DataEntryForms\DataEntryForms\obj\Debug\DataEntryForms.exe
+C:\Users\Joe\Dropbox\School\2017-2018\Fall\ProgrammingEnvironments\DataEntryForms\DataEntryForms\obj\Debug\DataEntryForms.pdb
+C:\Users\Joe\Dropbox\School\2017-2018\Fall\ProgrammingEnvironments\DataEntryForms\DataEntryForms\obj\Debug\DataEntryForms.Frm_People.resources
+C:\Users\Joe\Dropbox\School\2017-2018\Fall\ProgrammingEnvironments\DataEntryForms\DataEntryForms\obj\Debug\DataEntryForms.Frm_Venue.resources
+C:\Users\Joe\Dropbox\School\2017-2018\Fall\ProgrammingEnvironments\DataEntryForms\DataEntryForms\obj\Debug\DataEntryForms.Frm_Master.resources
+C:\Users\Joe\Dropbox\School\2017-2018\Fall\ProgrammingEnvironments\DataEntryForms\DataEntryForms\obj\Debug\DataEntryForms.Frm_JobFair.resources
